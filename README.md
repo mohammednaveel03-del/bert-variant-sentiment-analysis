@@ -1,3 +1,19 @@
+## Opening the Notebook (Important)
+
+GitHub may display this notebook as **"Invalid Notebook"** due to Colab-specific metadata.
+This does NOT affect execution.
+
+To open the notebook correctly:
+
+1. Go to: https://colab.research.google.com
+2. Click **GitHub**
+3. Paste this repository URL:
+   https://github.com/mohammednaveel03-del/bert-variant-sentiment-analysis
+4. Select:
+   `SentimentAnalysis_MohammedNaveel.ipynb`
+
+The notebook will open and run normally in Google Colab.
+
 # Accuracy–Latency Trade-off in Transformer-Based Sentiment Analysis
 
 This repository contains a fully reproducible implementation of a comparative study evaluating BERT, RoBERTa, and DistilBERT for binary tweet sentiment classification.
